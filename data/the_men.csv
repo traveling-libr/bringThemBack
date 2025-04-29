@@ -1,0 +1,9 @@
+﻿ID,FIRST_NAME,LAST_NAME,FULL,AGE_AT_DEPORTATION,SOURCE_ID_LIST,IMMIGRATION_ASSIGNMENT,IMMIGRATION_STATUS,CRIMINAL_RECORD,CITY,STATE
+1,Kilmar,Abrego Garcia,Kilmar Abrego Garcia,29,"3, 4, 6, 8",Withholding of Removal,Granted,No record,,Maryland
+2,Edicson David,Quintero Chacon,Edicson David Quintero Chacon,28,"5, 40, 41, 42, 43, 44",Deportation to VE,Detained; unable to leave,No record,,
+3,Francisco Javier,García Cacique,Francisco Javier García Cacique,24,"9, 36, 37, 38, 39",Deportation to VE,Electronic bracelet until deportation,No record,,
+4,Andry,Hernandez Romero,Andry Hernandez Romero,31,"28, 29, 30, 31, 32, 33, 35",Asylum,In process; strong asylum case,No record,,
+5,Merwil,Gutiérrez,Merwil Gutiérrez,19,"11, 23, 24, 25, 26, 27",Asylum,Granted,No record,,
+6,Richard Alexander,Duarte Rodríguez,Richard Alexander Duarte Rodríguez,24,12,Temporary Protected Status,Granted,No record,,
+7,Widmer Josneyder,Agelviz Sanguino,Widmer Josneyder Agelviz Sanguino,24,"20, 21, 22, 34",Asylum,In process under protection of UNHCR,No record,,
+8,Neiyerver Adrián,Leon Rengel,Neiyerver Adrián Leon Rengel,27,51,Asylum,In process through CBP One App,Class C Misdemeanor,,
