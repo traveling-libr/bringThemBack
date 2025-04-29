@@ -1,4 +1,4 @@
-﻿ID,FIRST_NAME,LAST_NAME,FULL,AGE_AT_DEPORTATION,SOURCE_ID_LIST,IMMIGRATION_ASSIGNMENT,IMMIGRATION_STATUS,CRIMINAL_RECORD,CITY,STATE
+﻿ID,FIRST_NAME,LAST_NAME,FULL,AGE_AT_DEPORTATION,SOURCE_IDS,IMMIGRATION_ASSIGNMENT,IMMIGRATION_STATUS,CRIMINAL_RECORD,CITY,STATE
 1,Kilmar,Abrego Garcia,Kilmar Abrego Garcia,29,"3, 4, 6, 8",Withholding of Removal,Granted,No record,,Maryland
 2,Edicson David,Quintero Chacon,Edicson David Quintero Chacon,28,"5, 40, 41, 42, 43, 44",Deportation to VE,Detained; unable to leave,No record,,
 3,Francisco Javier,García Cacique,Francisco Javier García Cacique,24,"9, 36, 37, 38, 39",Deportation to VE,Electronic bracelet until deportation,No record,,
