@@ -1,4 +1,4 @@
-﻿ID,List from src 53,Last Name,First Name,Age at Deportation,SourceIDs,Immigration Assignment,Immigration Status,Status Code,Criminal Record,City,State
+﻿ID,List from src 53,Last Name,First Name,Age at Deportation,SourceIDs,Immigration Assignment,Immigration Status,Short Status,Criminal Record,City,State
 1,0,Abrego Garcia,Kilmar,29,"3, 4, 6, 8",Withholding of Removal,Granted,Granted,No record,,Maryland
 2,1,Quintero Chacon,Edicson,28,"5, 40, 41, 42, 43, 44",Deportation to VE,Detained; unable to leave,Deportation,No record,,
 3,1,Garcia Casique,Francisco,24,"9, 36, 37, 38, 39",Deportation to VE,Electronic bracelet until deportation,Deportation,No record,,
