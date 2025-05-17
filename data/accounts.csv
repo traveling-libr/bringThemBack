@@ -1,0 +1,9 @@
+﻿ID,MID,Section,Report,SourceIDs
+1,1,immigration_account,He was granted withholding of removal status so he could not be removed from the country.,"3, 4, 6, 8"
+2,2,immigration_account,"He was ordered to be deported to Venezuela, but he could not leave the country because he was being held in a detention center. He said he would leave and was contesting his prolonged detainment when he was sent to CECOT.","5, 40, 41, 42, 43, 44"
+3,3,immigration_account,He was ordered to be deported to Venezuela and was wearing an electronic bracelet until he could be deported.,"9, 36, 37, 38, 39"
+4,4,immigration_account,"His asylum case was in process, and news reports say that he had a strong case.","28, 29, 30, 31, 32, 33, 35"
+5,5,immigration_account,He had legal asylum status.,"11, 23, 24, 25, 26, 27"
+6,6,immigration_account,He had legal temporary protected status.,12
+7,7,immigration_account,"His asylum case was in process, and he was under the protection of UNHCR.","20, 21, 22, 34"
+8,8,immigration_account,His asylum case was in process and legally arranged through the CBP One App.,51
